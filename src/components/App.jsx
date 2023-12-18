@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Section from './Section/Section';
 import Statistics from './Statistics/Statistics';
 import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
-import Notification from './Notification/Notification'; // Припустимо, що у вас є компонент Notification
+import Notification from './Notification/Notification';
 
 class App extends Component {
   state = {
